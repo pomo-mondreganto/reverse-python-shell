@@ -1,7 +1,4 @@
-# reverse-python-shell
-
-Reverse shell C&C and client
-============================
+# Reverse shell C&C and client
 
 C&C (Command & Control server) and client providing reverse-shell with ssl encryption for *nix, written in pure python3.
 
